@@ -26,4 +26,4 @@ jobs:
           BAIDU_COOKIE: ${{ secrets.BAIDU_COOKIE }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
-        run: python main.py
+        run: python du.py
