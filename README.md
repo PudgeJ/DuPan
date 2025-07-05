@@ -1,5 +1,9 @@
-git commit --allow-empty -m "chore: trigger cron job"
-git push origin main
+#git commit --allow-empty -m "chore: trigger cron job"
+
+
+#git push origin main
+
+
 原项目：https://gist.github.com/BlueSkyXN/f451b01af21bbda885d191444356401f
 
 # 为什么要签到答题？
